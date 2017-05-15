@@ -1,0 +1,40 @@
+body{
+	background:#FFEED2;
+	font-family: 'Poppins', sans-serif;
+	font-weight:bold;
+	width:95%;
+	margin: 0px auto;
+}
+
+h1 {
+	font-family: 'Barrio', cursive;
+	font-size:3em;
+	margin: 10px auto;
+	text-align:center;
+}
+#show-form{
+	text-align:center;
+	margin-bottom:10px;
+}
+
+.show, #show-submit {
+	margin:5px;
+	font-family: 'Poppins', sans-serif;
+	font-weight:bold;
+	background:#A4C4EF;
+	border-radius:5px;
+}
+
+.show:hover, .image:hover, #show-submit:hover{
+	cursor:pointer;
+}
+
+.holder{
+	display:inline-block;
+	margin:10px 5px;
+	font-size:0.8em;
+}
+
+#shows-section{
+	text-align:center;
+}
